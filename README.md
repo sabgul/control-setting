@@ -74,7 +74,7 @@ without going over the time limit.
 
 -----------
 
-### 🚮 (No need to read) Trashcan / scratchpad for stream of consciousness used during first 3 hours of working on the task, when thinking of the ideas to implement:
+### 🚮 (No need to read) Trash can / scratchpad for stream of consciousness used during first 3 hours of working on the task, when thinking of the ideas to implement:
 
 > LLM generate codebases / main task and handcode a side task
 
