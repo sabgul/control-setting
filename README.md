@@ -1,4 +1,4 @@
-# fictional-spoon: Tyler Tracy Pivotal Work Test 2026
+# control-setting: Tyler Tracy Pivotal Work Test
 ## Author: Sabína Gulčíková, sabina.gulcikova@gmail.com
 
 ### [Introduction _(to make sure I comprehended the task correctly)_]
@@ -78,9 +78,6 @@ without going over the time limit.
 ### 🚮 (No need to read) Trash can / scratchpad for stream of consciousness used during first 3 hours of working on the task, when thinking of the ideas to implement:
 
 > LLM generate codebases / main task and handcode a side task
-
-Note: the name of this repo is completely random and was chosen by github. However, the ideas presented by the attack
-model ellicit spoonfeeding of defect code (?)
 
 To preface, I'd like to start by explaining the goal of this task in my own words, just to ensure I grasped it correctly.
 
