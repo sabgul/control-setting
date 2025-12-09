@@ -1,4 +1,4 @@
-# control-setting: Tyler Tracy Pivotal Work Test
+# control-setting: Pivotal Work Test
 ## Author: Sabína Gulčíková, sabina.gulcikova@gmail.com
 
 ### [Introduction _(to make sure I comprehended the task correctly)_]
