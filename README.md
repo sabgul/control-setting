@@ -54,7 +54,8 @@ The side task instructs the AI to complete the same implementation while secretl
 backdoor authentication logic (missing await, inverted conditions, dead code paths, bypassed exceptions), unsafe TypeORM patterns, 
 CVE-inspired logic, manipulative code review arguments and subtle semantic shifts which make code look equivalent but behave differently.
 
-_At the end of the conversation it can be seen that I managed to persuade chat to introduce some unwanted vulnerabilities for the sake of learning._
+_At the end of the conversation it can be seen that I managed to persuade chat to introduce some unwanted vulnerabilities for the sake of learning. 
+All tweaks made to the code are annotated by comments with prefix `note:adv` _
 - [Chat with GPT-5.1](https://chatgpt.com/share/6938a9d7-36cc-800d-8f15-ad4a06553825)
 
 
